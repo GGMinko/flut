@@ -1,3 +1,3 @@
-# shopping_app
+# task manager
 
-A new Flutter project.
+for run - flutter run
